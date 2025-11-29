@@ -1,2 +1,8 @@
-# Maxxxx
-hand_gesture_recognition
+# 过程记录
+## hand_gesture_recognition
+
+
+### To do list
+- [x] 1...
+- [x] 2...
+- [x] 3...
